@@ -32,6 +32,7 @@
   width: 490px;
   height: 34px;
   border-style: none;
+  margin: 0 auto;
 }
 
 .magnifying-glass {
@@ -100,4 +101,46 @@
 
 .sign-in:hover {
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+}
+
+.search-button {
+  position: relative;
+  top: 30px;
+  left: 800px;
+  width: 132px;
+  height: 37px;
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  background-color: rgb(242, 242, 242);
+  border-radius: 1px;
+  border-style: solid;
+  border-color: #f2f2f2;
+  color: #5f6368;
+  text-align: center;
+  border-radius: 3px;
+}
+
+.search-button:hover {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.lucky-button {
+  position: relative;
+  top: 30px;
+  left: 807px;
+  width: 132px;
+  height: 37px;
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  background-color: rgb(242, 242, 242);
+  border-radius: 1px;
+  border-style: solid;
+  border-color: #f2f2f2;
+  color: #5f6368;
+  text-align: center;
+  border-radius: 3px;
+}
+
+.lucky-button:hover {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
