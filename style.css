@@ -28,7 +28,49 @@
 .search {
   font-size: 16px;
   font-family: arial, sans-serif;
-  width: 527px;
+  width: 490px;
   height: 34px;
   border-style: none;
+}
+
+.magnifying-glass {
+  opacity: 0.45;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  margin-right: 535px;
+}
+
+.nav ul {
+  top: 0;
+  list-style: none;
+  display: inline;
+  margin: 0;
+}
+
+.nav-item-left {
+  float: left;
+}
+
+.nav-item-right {
+  float: right;
+}
+
+.nav ul li a {
+  display: block;
+  text-decoration: none;
+  opacity: 0.75;
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  color: black;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.nav ul li a:hover {
+  text-decoration: underline;
+}
+
+.nav ul li a:visited {
+  text-decoration: none;
 }
