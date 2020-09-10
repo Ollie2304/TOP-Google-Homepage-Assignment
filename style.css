@@ -1,8 +1,9 @@
 #logo {
-  padding-top: 109px;
-  width: 272px;
+  padding-top: 170px;
+  width: 274px;
   margin: 0 auto;
   display: block;
+  margin-left: 815px;
 }
 
 .search-bar {
@@ -63,7 +64,7 @@
   font-family: arial, sans-serif;
   font-size: 13px;
   color: black;
-  padding-left: 15px;
+  padding-left: 18.3px;
   padding-top: 15px;
 }
 
@@ -73,4 +74,30 @@
 
 .nav ul li a:visited {
   text-decoration: none;
+}
+
+.app {
+  width: 15px;
+  height: 15px;
+}
+
+.sign-in {
+  color: white;
+  background-color: #4386f8;
+  border-color: #4386f8;
+  border-style: solid;
+  border-radius: 1px;
+  font-weight: 700;
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  width: 70px;
+  height: 30px;
+  display: inline-block;
+  margin-left: 15px;
+  margin-right: 20px;
+  margin-top: 8px;
+}
+
+.sign-in:hover {
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
 }
