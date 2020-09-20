@@ -3,7 +3,7 @@
   width: 274px;
   margin: 0 auto;
   display: block;
-  margin-left: 815px;
+  margin-left: 620px;
 }
 
 .search-bar {
@@ -106,7 +106,7 @@
 .search-button {
   position: relative;
   top: 30px;
-  left: 800px;
+  left: 620px;
   width: 132px;
   height: 37px;
   font-family: arial, sans-serif;
@@ -127,7 +127,7 @@
 .lucky-button {
   position: relative;
   top: 30px;
-  left: 807px;
+  left: 627px;
   width: 132px;
   height: 37px;
   font-family: arial, sans-serif;
